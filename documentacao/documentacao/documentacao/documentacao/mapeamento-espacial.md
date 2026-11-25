@@ -171,3 +171,5 @@ O desenvolvimento envolveu desafios relacionados à integração de diferentes e
 As plantas técnicas originais, a localização dos equipamentos, a distribuição física dos pontos de coleta e os resultados microbiológicos constituem informações cuja divulgação depende de autorização.
 
 A apresentação pública do projeto deverá utilizar representações gráficas demonstrativas, sem exposição da infraestrutura industrial real.
+
+
