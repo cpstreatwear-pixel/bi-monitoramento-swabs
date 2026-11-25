@@ -45,12 +45,14 @@ O desenvolvimento contemplou tanto a estruturação e o tratamento dos dados mic
 
 - ZWCAD
 - Autodesk DWG TrueView
+- Figma
 - Synoptic Panel by OKViz
+- SVG (Scalable Vector Graphics)
+- XML — manipulação da estrutura e dos identificadores dos elementos SVG
 - Conversão de arquivos PDF para JPG
-- Conversão e adequação de imagens JPG para SVG
+- Preparação e exportação de representações gráficas em SVG
 - Edição e tratamento de imagens técnicas
-- Identificação e mapeamento de elementos gráficos
-
+- Desenvolvimento de elementos gráficos interativos
 ## Estrutura conceitual
 
 Unidade industrial → Setor → Equipamento → Ponto de coleta → Análise microbiológica → Resultado
